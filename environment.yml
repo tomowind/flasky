@@ -5,3 +5,4 @@ dependencies:
   - flask-bootstrap
   - flask-material
   - flask-moment
+  - flask-wtf
