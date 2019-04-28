@@ -3,6 +3,7 @@ dependencies:
 - flask
 - pygraphviz
 - pip:
+  - flask-blueprint
   - flask-bootstrap
   - flask-material
   - flask-migrate

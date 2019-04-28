@@ -106,3 +106,4 @@ venv.bak/
 # database
 *.sqlite
 Chapter05/migrations/
+Chapter07/migrations/
