@@ -1,8 +1,11 @@
 dependencies:
 - python >=3.7
 - flask
+- pygraphviz
 - pip:
   - flask-bootstrap
   - flask-material
+  - flask-migrate
   - flask-moment
+  - flask-sqlalchemy
   - flask-wtf
