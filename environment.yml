@@ -5,6 +5,7 @@ dependencies:
 - pip:
   - flask-blueprint
   - flask-bootstrap
+  - flask-login
   - flask-material
   - flask-migrate
   - flask-moment

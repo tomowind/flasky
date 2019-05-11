@@ -32,10 +32,10 @@ conda env create --name flasky --file environment.yml
 - [Chapter 4](Chapter04): Web Forms
 - [Chapter 5](Chapter05): Databases
 - [Chapter 7](Chapter07): Large Application Structure
+- [Chapter 8](Chapter08): User Authentication
 
 ## TODO
 
-- Chapter 8: User Authentication
 - Chapter 9~13: User Roles, User Profiles, Blog Posts, Followers, User Comments
 - Chapter 14: Application Programming Interfaces
 - Chapter 15: Testing
