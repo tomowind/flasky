@@ -107,3 +107,6 @@ venv.bak/
 *.sqlite
 Chapter05/migrations/
 Chapter07/migrations/
+
+# intellij
+.idea
