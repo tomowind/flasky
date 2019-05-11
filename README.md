@@ -10,6 +10,21 @@ conda 를 사용합니다.
 conda env create --name flasky --file environment.yml
 ```
 
+### 인텔리제이/파이참 사용
+
+[Stackoverflow의 설명](https://stackoverflow.com/questions/8774024/intellij-working-on-multiple-projects) 처럼 셋업을 합니다.
+
+1. Empty project 만들기
+2. Module 추가 (나중에는 Project Structure > Module > + 버튼)
+3. Import Module
+4. Create Module from Existing Source
+5. Chapter0x 모듈 추가
+6. Dependency 탭에서 Conda environment 설정
+
+설정후에 플라스크 앱을 돌리고 싶다면 아래처럼 하세요. [이글을 참고](https://github.com/pallets/flask/blob/master/docs/cli.rst) 했습니다.
+
+![Run](intellij-run.png)
+
 ## 목록
 
 - [Chapter 2](Chapter02): Basic Application Structure
