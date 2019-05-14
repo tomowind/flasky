@@ -33,6 +33,7 @@ conda env create --name flasky --file environment.yml
 - [Chapter 5](Chapter05): Databases
 - [Chapter 7](Chapter07): Large Application Structure
 - [Chapter 8](Chapter08): User Authentication
+- [Chapter 9](Chapter09): User Roles
 
 ## TODO
 
